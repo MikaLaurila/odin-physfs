@@ -1,2 +1,2 @@
 # odin-physfs
-Odin wrapper for PhysicsFS library
+PhysicsFS wrapper for Odin Programming Language
